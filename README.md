@@ -1,10 +1,10 @@
 <img align="center" alt="Coding GIF" width="1000px" height="500px" src="https://i.pinimg.com/originals/d8/cb/b3/d8cbb31231555eda7dff68848db4aee1.gif"></img>
 <h1 align="center">Hey! 👋🏼, I'm Denisse</h1>
-<h3 align="center">A returning first-gen latina with a passion for tech, innovative thinking and teamwork with a continous desire for learning heading towards Product Management with originally no tech background.</h3><br>
+<h3 align="center">A returning first-gen latina with a passion for tech, innovative thinking and teamwork with a continuous desire for learning heading towards Product Management with originally no tech background.</h3><br>
 
 <img align="right" alt="Coding GIF" width="350px" src="https://i.pinimg.com/originals/0b/70/c8/0b70c85a92b8d638a0c88370dc98a44e.gif" >
 
-- 🔭 I’m currently returning and working on finishing up **Bloomtech's Full Stack Web Dev Curriculum.** after a year hiatus due to external obstacles, while simutaneously building personal projects.
+- 🔭 I’m currently returning and working on finishing up **Bloomtech's Full Stack Web Dev Curriculum.** after a year hiatus due to external obstacles, while simultaneously building personal projects.
 
 - 🌱 I’m currently learning **React Native.**
 
@@ -18,7 +18,7 @@
 
 - ✏️ Know about my experiences at Bloomtech's Institution Of Technology <br>& Upcoming Personal Projects
 
-- 🫧 Fun fact: **I'm currently working on building my own app based in my New York City!**
+- 🫧 Fun fact: **I'm currently working on building my own app based in New York City!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
