@@ -1,31 +1,30 @@
 <img align="center" alt="Coding GIF" width="1000px" height="500px" src="https://i.pinimg.com/originals/d8/cb/b3/d8cbb31231555eda7dff68848db4aee1.gif"></img>
 <h1 align="center">Hey! 👋🏼, I'm Denisse</h1>
-<h3 align="center">an incoming and growing Full Stack Web Developer.</h3><br>
+<h3 align="center">A returning first-gen latina with a passion for tech, innovative thinking and teamwork with a continous desire for learning heading towards Product Management with originally no tech background.</h3><br>
 
 <img align="right" alt="Coding GIF" width="350px" src="https://i.pinimg.com/originals/0b/70/c8/0b70c85a92b8d638a0c88370dc98a44e.gif" >
 
-- 🔭 I’m currently working on **Bloomtech's Full Stack Web Dev Curriculum.**
+- 🔭 I’m currently returning and working on finishing up **Bloomtech's Full Stack Web Dev Curriculum.** after a year hiatus due to external obstacles, while simutaneously building personal projects.
 
-- 🌱 I’m currently learning **React & Ruby**
+- 🌱 I’m currently learning **React Native.**
 
-- 💭 I’m looking to collaborate on **JavaScript Based Projects.**
+- 💭 I’m looking to collaborate on **JavaScript/React Native Based Projects.**
 
 - 👩🏻‍💻 I’m looking for help with **React & React Native**
 
-- 🪄 Ask me about **javascript, react.**
+- 🪄 Ask me about **my outside-the-box thinking when it comes to problem solving.**
 
 - ✉️ How to reach me **codingwithden@gmail.com**
 
-- ✏️ Know about my experiences at Bloomtech's Institution Of Technology <br>& Self Taught Education.
+- ✏️ Know about my experiences at Bloomtech's Institution Of Technology <br>& Upcoming Personal Projects
 
-- 🫧 Fun fact: **On my free time I love partaking in culinary arts and learning new languages, currently learning Italian!**
+- 🫧 Fun fact: **I'm currently working on building my own app based in my New York City!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codingwithden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codingwithden" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/denisse-medina-flores/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denisse-medina-flores/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/denisse-medina-flores/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/codingwithden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codingwithden" height="30" width="40" /></a>
-<a href="https://instagram.com/codingwithden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingwithden" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codingwithden" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codingwithden" height="30" width="40" /></a>
 </p>
 
