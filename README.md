@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding GIF" width="350px" src="https://i.pinimg.com/originals/0b/70/c8/0b70c85a92b8d638a0c88370dc98a44e.gif" >
 
-- 🔭 I’m currently returning and working on finishing up **Bloomtech's Full Stack Web Dev Curriculum.** after a year hiatus due to external obstacles, while simultaneously building personal projects.
+- 🔭 I’m currently returning and working on finishing up **Bloomtech's Full Stack Web Dev Curriculum, flexibly.** after a year hiatus due to external obstacles, while simultaneously building personal projects.
 
 - 🌱 I’m currently learning **React Native.**
 
