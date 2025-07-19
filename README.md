@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently returning and working on finishing up **Bloomtech's Full Stack Web Dev Curriculum, flexibly.** after a year hiatus due to external obstacles, while simultaneously building personal projects.
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **React Native & APIs.**
 
 - 💭 I’m looking to collaborate on **JavaScript/React Native Based Projects.**
 
