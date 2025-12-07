@@ -1,10 +1,10 @@
 <img align="center" alt="Coding GIF" width="1000px" height="500px" src="https://i.pinimg.com/originals/d8/cb/b3/d8cbb31231555eda7dff68848db4aee1.gif"></img>
 <h1 align="center">Hey! 👋🏼, I'm Denisse</h1>
-<h3 align="center">A returning first-gen latina with a passion for tech, innovative thinking and teamwork with a continuous desire for learning heading towards Product Management with an original background of Education and Culinary Arts.</h3><br>
+<h3 align="center">A returning first-gen latina with a passion for tech, identifying user pain points and programming with the goal of becoming a Product Management with an original background of Education and Culinary Arts.</h3><br>
 
 <img align="right" alt="Coding GIF" width="350px" src="https://i.pinimg.com/originals/0b/70/c8/0b70c85a92b8d638a0c88370dc98a44e.gif" >
 
-- 🔭 I’m currently working on finishing up **Bloomtech's Full Stack Web Dev Curriculum after a year hiatus due to external obstacles, while simultaneously building my own app based in New York City and own UGC Website based.
+- 🔭 I’m currently working on finishing up **Bloomtech's Full Stack Web Dev Curriculum while building my own app based in New York City and own UGC Website based.
 
 - 🌱 I’m currently learning **React Native & Figma**
 
@@ -12,13 +12,13 @@
 
 - 👩🏻‍💻 I’m looking for help with **React & React Native**
 
-- 🪄 Ask me about **My origin story and my development for passion with tech, marketing and **
+- 🪄 Ask me about **My origin story and my development for passion with tech, marketing and user research.**
 
 - ✉️ How to reach me **codingwithden@gmail.com**
 
 - ✏️ Know about my experiences at Bloomtech's Institution Of Technology <br>& Upcoming Personal Projects
 
-- 🫧 Fun fact: **I've worked with two startup companies in the past year in occasional QA Testing, feedback and content creation through organic customer outreach via social media!**
+- 🫧 Fun fact: **I've worked with two startup companies in the past year in occasional QA Testing, feedback and content creation through organic customer outreach via social media such as xTiles & Love8!**
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:codingwithden@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/gmail.svg" alt="gmail" height="30" width="40" /></a><a href="https://www.linkedin.com/in/denisse-medina-flores/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
