@@ -4,21 +4,21 @@
 
 <img align="right" alt="Coding GIF" width="350px" src="https://i.pinimg.com/originals/0b/70/c8/0b70c85a92b8d638a0c88370dc98a44e.gif" >
 
-- 🔭 I’m currently returning and working on finishing up **Bloomtech's Full Stack Web Dev Curriculum, flexibly.** after a year hiatus due to external obstacles, while simultaneously building personal projects.
+- 🔭 I’m currently working on finishing up **Bloomtech's Full Stack Web Dev Curriculum after a year hiatus due to external obstacles, while simultaneously building my own app based in New York City and own UGC Website based.
 
-- 🌱 I’m currently learning **React Native & APIs.**
+- 🌱 I’m currently learning **React Native & Figma**
 
 - 💭 I’m looking to collaborate on **JavaScript/React Native Based Projects.**
 
 - 👩🏻‍💻 I’m looking for help with **React & React Native**
 
-- 🪄 Ask me about **my outside-the-box thinking when it comes to problem solving.**
+- 🪄 Ask me about **My origin story and my development for passion with tech, marketing and **
 
 - ✉️ How to reach me **codingwithden@gmail.com**
 
 - ✏️ Know about my experiences at Bloomtech's Institution Of Technology <br>& Upcoming Personal Projects
 
-- 🫧 Fun fact: **I'm currently working on building my own app based in New York City!**
+- 🫧 Fun fact: **I've worked with two startup companies in the past year in occasional QA Testing, feedback and content creation through organic customer outreach via social media!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
