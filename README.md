@@ -1,10 +1,10 @@
 <img align="center" alt="Coding GIF" width="1000px" height="500px" src="https://i.pinimg.com/originals/d8/cb/b3/d8cbb31231555eda7dff68848db4aee1.gif"></img>
 <h1 align="center">Hey! 👋🏼, I'm Denisse</h1>
-<h3 align="center">A returning first-gen latina with a passion for tech, identifying user pain points and programming with the goal of becoming a Product Management with an original background of Education and Culinary Arts.</h3><br>
+<h3 align="center">A first-gen latina with a desire for breaking into tech, identifying user pain points and programming with the goal of becoming a Product Management with an original background of Education and Culinary Arts.</h3><br>
 
 <img align="right" alt="Coding GIF" width="350px" src="https://i.pinimg.com/originals/0b/70/c8/0b70c85a92b8d638a0c88370dc98a44e.gif" >
 
-- 🔭 I’m currently working on finishing up **Bloomtech's Full Stack Web Dev Curriculum while building my own app based in New York City and own UGC Website based.
+- 🔭 I’m currently working on finishing up BloomTech's Full Stack Web Dev Curriculum while building my own app based in New York City and own UGC Website based.
 
 - 🌱 I’m currently learning **React Native & Figma**
 
@@ -16,7 +16,7 @@
 
 - ✉️ How to reach me **codingwithden@gmail.com**
 
-- ✏️ Know about my experiences at Bloomtech's Institution Of Technology <br>& Upcoming Personal Projects
+- ✏️ Whats Next?: Launching my NYC app, releasing my UGC website, and completing the AWS Certified Cloud Practitioner Certification in 2026.
 
 - 🫧 Fun fact: **I've worked with two startup companies in the past year in occasional QA Testing, feedback and content creation through organic customer outreach via social media such as xTiles & Love8!**
 
