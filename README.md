@@ -14,8 +14,6 @@
 
 - 🪄 Ask me about **My origin story and my development for passion with tech, marketing and user research.**
 
-- ✉️ How to reach me **codingwithden@gmail.com**
-
 - ✏️ Whats Next?: Launching my NYC app, releasing my UGC website, and completing the AWS Certified Cloud Practitioner Certification in 2026.
 
 - 🫧 Fun fact: **I've worked with two startup companies in the past year in occasional QA Testing, feedback and content creation through organic customer outreach via social media such as xTiles & Love8!**
