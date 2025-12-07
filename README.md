@@ -19,7 +19,7 @@
 - 🫧 Fun fact: **I've worked with two startup companies in the past year in occasional QA Testing, feedback and content creation through organic customer outreach via social media such as xTiles & Love8!**
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:codingwithden@gmail.com" title="Send email to codingwithden@gmail.com"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=codingwithden@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/gmail.svg" alt="gmail" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/denisse-medina-flores/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
