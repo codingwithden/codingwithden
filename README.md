@@ -1,39 +1,39 @@
-<img align="center" alt="Coding GIF" width="1000px" height="500px" src="https://i.pinimg.com/originals/d8/cb/b3/d8cbb31231555eda7dff68848db4aee1.gif"></img>
-<h1 align="center">Hey! 👋🏼, I'm Denisse</h1>
-<h3 align="center">A first-gen latina with a desire for breaking into tech, identifying user pain points and programming with the goal of becoming a Product Management with an original background of Education and Culinary Arts.</h3><br>
+# Hi, I'm Den (Denisse Medina Flores)
 
-<img align="right" alt="Coding GIF" width="350px" src="https://i.pinimg.com/originals/0b/70/c8/0b70c85a92b8d638a0c88370dc98a44e.gif" >
+**Founder & Product Lead at [Work & Brew](https://github.com/workandbrew)** · Full-stack builder · Bronx, NYC
 
-- 🔭 I’m currently working on finishing up BloomTech's Full Stack Web Dev Curriculum while building my own app based in New York City and own UGC Website based.
+I build products from zero to one: I talk to users, write the spec, design the flow, and help ship the code. I'm bringing that to an APM / PM role in NYC.
 
-- 🌱 I’m currently learning **React Native & Figma**
+**Portfolio:** [denstacked.com](https://denstacked.com) · **LinkedIn:** [denisse-medina-flores](https://www.linkedin.com/in/denisse-medina-flores/) · **Email:** codingwithden@gmail.com
 
-- 💭 I’m looking to collaborate on **JavaScript/React Native Based Projects.**
+---
 
-- 👩🏻‍💻 I’m looking for help with **React & React Native**
+## What I'm building
 
-- 🪄 Ask me about **My origin story and my development for passion with tech, marketing and user research.**
+| Product | What it is | My role |
+| --- | --- | --- |
+| **[Work & Brew](https://github.com/workandbrew)** | NYC platform of hand-vetted, work-friendly independent cafés. 450+ cafés scouted, web app live, mobile app launching Dec 2026 | Founder & Product Lead: research, roadmap, design, front end, a team of 9 |
+| **[denstacked](https://github.com/codingwithden/denstacked)** | My portfolio, designed as a café order ticket where each project opens a case study | Concept, design and build (Next.js, TypeScript) |
+| **Gwen** | A voice-first AI assistant that runs my day: tasks, calendar, bills and team texts, with every action approved by me first | Product, architecture and build (Claude API). Case study coming soon |
+| **MorningLine** | A scheduled wake-up call service that rings a real phone | Product and prototype (Twilio). Case study coming soon |
 
-- ✏️ Whats Next?: Launching my NYC app, releasing my UGC website, and completing the AWS Certified Cloud Practitioner Certification in 2026.
+## How I work
 
-- 🫧 Fun fact: **I've worked with two startup companies in the past year in occasional QA Testing, feedback and content creation through organic customer outreach via social media such as xTiles & Love8!**
+1. **Discover:** start with real users and real friction. For Work & Brew, that meant a year of interviews with café owners and regulars across NYC.
+2. **Build:** turn findings into a spec, a wireframe, then the smallest version worth testing.
+3. **Ship:** measure what happens (GA4 funnels, sign-ups, feedback) and let that decide what comes next.
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=codingwithden@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/gmail.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/denisse-medina-flores/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
+## Toolkit
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="https://trello.com/" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40" height="40"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/></a>
-</p>
+- **Product:** Jira, Confluence, Figma, Notion, Google Analytics 4
+- **Build:** React, React Native, Next.js, TypeScript, JavaScript, Node.js, SQL, Supabase
+- **AI:** Claude API, Claude Code, Cursor
+
+## Background
+
+- BloomTech Full Stack Web Development (2025)
+- 5 years leading bilingual (English / Spanish) workshops in NYC schools with Elevate Education
+- Culinary arts and line cook work before tech: where I learned to run a ticket under pressure
+- Certifications: Digital Product Management (UVA, Coursera), Google AI Essentials, Google Analytics, Jira Service Management Fundamentals
+
+*My archived repos are BloomTech coursework, kept as a record of where I started.*
