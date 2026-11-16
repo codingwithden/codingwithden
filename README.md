@@ -25,9 +25,14 @@ I build products from zero to one: I talk to users, write the spec, design the f
 
 ## Toolkit
 
-- **Product:** Jira, Confluence, Figma, Notion, Google Analytics 4
-- **Build:** React, React Native, Next.js, TypeScript, JavaScript, Node.js, SQL, Supabase
-- **AI:** Claude API, Claude Code, Cursor
+- **Product:** PRDs, user stories, acceptance criteria, discovery interviews, user research, MoSCoW prioritization, roadmapping, hypothesis-driven development
+- **Project and team:** Jira, Confluence, Trello, Notion, Slack, Miro, Loom, Toggl, Calendly, Discord
+- **Design:** Figma, Canva, CapCut
+- **Data:** Google Analytics 4, SQL, Excel, Google Sheets
+- **Build:** React, React Native, Next.js, TypeScript, JavaScript, Node.js, Supabase, Vercel, Twilio, Google Apps Script
+- **No-code and commerce:** Zapier, Wix, Shopify, Stripe
+- **AI:** Claude, Cursor, Gemini
+- **Everyday:** Google Workspace, Microsoft Office
 
 ## Background
 
