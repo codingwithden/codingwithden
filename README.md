@@ -1,44 +1,88 @@
-# Hi, I'm Den (Denisse Medina Flores)
+<h1 align="center">Hi, I'm Den</h1>
 
-**Founder & Product Lead at [Work & Brew](https://github.com/workandbrew)** · Full-stack builder · Bronx, NYC
+<p align="center"><b>Founder & Product Lead at <a href="https://github.com/workandbrew">Work & Brew</a> · Bronx, NYC</b></p>
 
-I build products from zero to one: I talk to users, write the spec, design the flow, and help ship the code. I'm bringing that to an APM / PM role in NYC.
+<p align="center">I build products from zero to one: talk to users, write the spec, design the flow, help ship the code.<br />Bringing that to an APM / PM role in NYC.</p>
 
-**Portfolio:** [denstacked.com](https://denstacked.com) · **LinkedIn:** [denisse-medina-flores](https://www.linkedin.com/in/denisse-medina-flores/) · **Email:** denstacked@gmail.com
+<table>
+<tr><td width="50%" valign="top"><b><a href="https://github.com/workandbrew/work-and-brew-case-study">Work & Brew</a></b> <img src="https://img.shields.io/badge/Live-1f6feb?style=flat-square" alt="Live" /><br /><sub>Hand-vetted, work-friendly independent cafés in NYC. 450+ scouted, app launching Dec 2026</sub></td><td width="50%" valign="top"><b><a href="https://denstacked.com">denstacked</a></b> <img src="https://img.shields.io/badge/Launching%20soon-1f6feb?style=flat-square" alt="Launching soon" /><br /><sub>My portfolio, designed as a café order ticket</sub></td></tr>
+<tr><td width="50%" valign="top"><b><a href="https://github.com/codingwithden/gwen-case-study">Gwen</a></b> <img src="https://img.shields.io/badge/In%20daily%20use-1f6feb?style=flat-square" alt="In daily use" /><br /><sub>A voice-first assistant that runs my day, every action approved first</sub></td><td width="50%" valign="top"><b><a href="https://github.com/codingwithden/morningline-case-study">MorningLine</a></b> <img src="https://img.shields.io/badge/Prototype-1f6feb?style=flat-square" alt="Prototype" /><br /><sub>A wake-up call service that rings any phone, landlines too</sub></td></tr>
+</table>
 
----
+<h3 align="center">My toolkit</h3>
 
-## What I'm building
+<p align="center"><sub>PRODUCT AND TEAM</sub><br />
+<img src="assets/icons/jira.svg" width="44" height="44" alt="Jira" title="Jira" />
+<img src="assets/icons/confluence.svg" width="44" height="44" alt="Confluence" title="Confluence" />
+<img src="assets/icons/trello.svg" width="44" height="44" alt="Trello" title="Trello" />
+<img src="assets/icons/notion.svg" width="44" height="44" alt="Notion" title="Notion" />
+<img src="assets/icons/slack.svg" width="44" height="44" alt="Slack" title="Slack" />
+<img src="assets/icons/miro.svg" width="44" height="44" alt="Miro" title="Miro" />
+<img src="assets/icons/loom.svg" width="44" height="44" alt="Loom" title="Loom" />
+<img src="assets/icons/toggl.svg" width="44" height="44" alt="Toggl" title="Toggl" />
+<img src="assets/icons/calendly.svg" width="44" height="44" alt="Calendly" title="Calendly" />
+<img src="assets/icons/discord.svg" width="44" height="44" alt="Discord" title="Discord" />
+</p>
 
-| Product | What it is | My role |
-| --- | --- | --- |
-| **[Work & Brew](https://github.com/workandbrew/work-and-brew-case-study)** | NYC platform of hand-vetted, work-friendly independent cafés. 450+ cafés scouted, web app live, mobile app launching Dec 2026 | Founder & Product Lead: research, roadmap, design, front end, a team of 9 |
-| **[denstacked](https://denstacked.com)** | My portfolio, designed as a café order ticket where each project opens a case study | Concept, design and build (Next.js, TypeScript) |
-| **[Gwen](https://github.com/codingwithden/gwen-case-study)** | A voice-first AI assistant that runs my day: tasks, calendar, bills and team texts, with every action approved by me first | Product, architecture and build. Code is private while I get it ready to sell |
-| **[MorningLine](https://github.com/codingwithden/morningline-case-study)** | A scheduled wake-up call service that rings a real phone | Product and prototype (Twilio). Code is private while I get it ready to sell |
+<p align="center"><sub>DESIGN</sub><br />
+<img src="assets/icons/figma.svg" width="44" height="44" alt="Figma" title="Figma" />
+<img src="assets/icons/canva.svg" width="44" height="44" alt="Canva" title="Canva" />
+</p>
 
-## How I work
+<p align="center"><sub>DATA</sub><br />
+<img src="assets/icons/googleanalytics.svg" width="44" height="44" alt="Google Analytics 4" title="Google Analytics 4" />
+<img src="assets/icons/mysql.svg" width="44" height="44" alt="SQL" title="SQL" />
+<img src="assets/icons/googlesheets.svg" width="44" height="44" alt="Google Sheets" title="Google Sheets" />
+</p>
 
+<p align="center"><sub>BUILD</sub><br />
+<img src="assets/icons/react.svg" width="44" height="44" alt="React" title="React" />
+<img src="assets/icons/nextjs.svg" width="44" height="44" alt="Next.js" title="Next.js" />
+<img src="assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+<img src="assets/icons/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+<img src="assets/icons/nodejs.svg" width="44" height="44" alt="Node.js" title="Node.js" />
+<img src="assets/icons/supabase.svg" width="44" height="44" alt="Supabase" title="Supabase" />
+<img src="assets/icons/vercel.svg" width="44" height="44" alt="Vercel" title="Vercel" />
+<img src="assets/icons/twilio.svg" width="44" height="44" alt="Twilio" title="Twilio" />
+<img src="assets/icons/googleappsscript.svg" width="44" height="44" alt="Google Apps Script" title="Google Apps Script" />
+</p>
+
+<p align="center"><sub>NO-CODE AND COMMERCE</sub><br />
+<img src="assets/icons/zapier.svg" width="44" height="44" alt="Zapier" title="Zapier" />
+<img src="assets/icons/wix.svg" width="44" height="44" alt="Wix" title="Wix" />
+<img src="assets/icons/shopify.svg" width="44" height="44" alt="Shopify" title="Shopify" />
+<img src="assets/icons/stripe.svg" width="44" height="44" alt="Stripe" title="Stripe" />
+</p>
+
+<p align="center"><sub>AI</sub><br />
+<img src="assets/icons/claude.svg" width="44" height="44" alt="Claude" title="Claude" />
+<img src="assets/icons/cursor.svg" width="44" height="44" alt="Cursor" title="Cursor" />
+<img src="assets/icons/googlegemini.svg" width="44" height="44" alt="Gemini" title="Gemini" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/denisse-medina-flores/"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="mailto:codingwithden@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Email" title="Email" /></a>
+</p>
+
+<p align="center"><sub><a href="https://denstacked.com">denstacked.com</a> · codingwithden@gmail.com</sub></p>
+
+<details>
+<summary><b>How I work and my background</b></summary>
+<br />
+
+**How I work**
 1. **Discover:** start with real users and real friction. For Work & Brew, that meant a year of interviews with café owners and regulars across NYC.
 2. **Build:** turn findings into a spec, a wireframe, then the smallest version worth testing.
 3. **Ship:** measure what happens (GA4 funnels, sign-ups, feedback) and let that decide what comes next.
 
-## Toolkit
+**Product skills:** PRDs, user stories, acceptance criteria, discovery interviews, user research, MoSCoW prioritization, roadmapping, hypothesis-driven development
 
-- **Product:** PRDs, user stories, acceptance criteria, discovery interviews, user research, MoSCoW prioritization, roadmapping, hypothesis-driven development
-- **Project and team:** Jira, Confluence, Trello, Notion, Slack, Miro, Loom, Toggl, Calendly, Discord
-- **Design:** Figma, Canva, CapCut
-- **Data:** Google Analytics 4, SQL, Excel, Google Sheets
-- **Build:** React, React Native, Next.js, TypeScript, JavaScript, Node.js, Supabase, Vercel, Twilio, Google Apps Script
-- **No-code and commerce:** Zapier, Wix, Shopify, Stripe
-- **AI:** Claude, Cursor, Gemini
-- **Everyday:** Google Workspace, Microsoft Office
-
-## Background
-
+**Background**
 - BloomTech Full Stack Web Development (2025)
 - 5 years leading bilingual (English / Spanish) workshops in NYC schools with Elevate Education
 - Culinary arts and line cook work before tech: where I learned to run a ticket under pressure
 - Certifications: Digital Product Management (UVA, Coursera), Google AI Essentials, Google Analytics, Jira Service Management Fundamentals
 
-*My archived repos are BloomTech coursework, kept as a record of where I started.*
+<sub>My archived repos are BloomTech coursework, kept as a record of where I started.</sub>
+</details>
