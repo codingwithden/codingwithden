@@ -63,27 +63,41 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/denisse-medina-flores/"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" title="LinkedIn" /></a>
-<a href="mailto:codingwithden@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Email" title="Email" /></a>
+<a href="mailto:denstacked@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Email" title="Email" /></a>
 </p>
 
-<p align="center"><sub><a href="https://denstacked.com">denstacked.com</a> · codingwithden@gmail.com</sub></p>
+<p align="center"><sub><a href="https://denstacked.com">denstacked.com</a> · denstacked@gmail.com</sub></p>
 
 <details>
 <summary><b>How I work and my background</b></summary>
 <br />
 
-**How I work**
-1. **Discover:** start with real users and real friction. For Work & Brew, that meant a year of interviews with café owners and regulars across NYC.
-2. **Build:** turn findings into a spec, a wireframe, then the smallest version worth testing.
-3. **Ship:** measure what happens (GA4 funnels, sign-ups, feedback) and let that decide what comes next.
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>How I work</b><br />
+<sub><b>1. Discover:</b> start with real users and real friction. For Work & Brew, a year of interviews with café owners and regulars across NYC.</sub><br />
+<sub><b>2. Build:</b> turn findings into a spec, a wireframe, then the smallest version worth testing.</sub><br />
+<sub><b>3. Ship:</b> measure what happens (GA4 funnels, sign-ups, feedback) and let that decide what comes next.</sub>
+</td>
+<td width="50%" valign="top">
+<b>Background</b><br />
+<sub>BloomTech Full Stack Web Development (2025)</sub><br />
+<sub>5 years leading bilingual (English / Spanish) workshops in NYC schools with Elevate Education</sub><br />
+<sub>Culinary arts and line cook work before tech: where I learned to run a ticket under pressure</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>Product skills</b><br />
+<sub>PRDs, user stories, acceptance criteria, discovery interviews, user research, MoSCoW prioritization, roadmapping, hypothesis-driven development</sub>
+</td>
+<td width="50%" valign="top">
+<b>Certifications</b><br />
+<sub>Digital Product Management (UVA, Coursera), Google AI Essentials, Google Analytics, Jira Service Management Fundamentals</sub>
+</td>
+</tr>
+</table>
 
-**Product skills:** PRDs, user stories, acceptance criteria, discovery interviews, user research, MoSCoW prioritization, roadmapping, hypothesis-driven development
-
-**Background**
-- BloomTech Full Stack Web Development (2025)
-- 5 years leading bilingual (English / Spanish) workshops in NYC schools with Elevate Education
-- Culinary arts and line cook work before tech: where I learned to run a ticket under pressure
-- Certifications: Digital Product Management (UVA, Coursera), Google AI Essentials, Google Analytics, Jira Service Management Fundamentals
-
-<sub>My archived repos are BloomTech coursework, kept as a record of where I started.</sub>
+<p align="center"><sub>My archived repos are BloomTech coursework, kept as a record of where I started.</sub></p>
 </details>
