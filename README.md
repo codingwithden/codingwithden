@@ -13,7 +13,7 @@ I build products from zero to one: I talk to users, write the spec, design the f
 | Product | What it is | My role |
 | --- | --- | --- |
 | **[Work & Brew](https://github.com/workandbrew/work-and-brew-case-study)** | NYC platform of hand-vetted, work-friendly independent cafés. 450+ cafés scouted, web app live, mobile app launching Dec 2026 | Founder & Product Lead: research, roadmap, design, front end, a team of 9 |
-| **[denstacked](https://github.com/codingwithden/denstacked)** | My portfolio, designed as a café order ticket where each project opens a case study | Concept, design and build (Next.js, TypeScript) |
+| **[denstacked](https://denstacked.com)** | My portfolio, designed as a café order ticket where each project opens a case study | Concept, design and build (Next.js, TypeScript) |
 | **[Gwen](https://github.com/codingwithden/gwen-case-study)** | A voice-first AI assistant that runs my day: tasks, calendar, bills and team texts, with every action approved by me first | Product, architecture and build. Code is private while I get it ready to sell |
 | **[MorningLine](https://github.com/codingwithden/morningline-case-study)** | A scheduled wake-up call service that rings a real phone | Product and prototype (Twilio). Code is private while I get it ready to sell |
 
