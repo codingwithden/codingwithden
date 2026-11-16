@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Den</h1>
 
-<p align="center"><b>Founder & Product Lead at <a href="https://github.com/workandbrew">Work & Brew</a> · Bronx, NYC</b></p>
+<p align="center"><b>Founder & Product Lead at <a href="https://github.com/workandbrew">Work & Brew</a> · New York City, NY</b></p>
 
 <p align="center">I build products from zero to one: talk to users, write the spec, design the flow, help ship the code.<br />Bringing that to an APM / PM role in NYC.</p>
 
