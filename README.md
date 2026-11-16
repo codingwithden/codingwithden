@@ -4,7 +4,7 @@
 
 I build products from zero to one: I talk to users, write the spec, design the flow, and help ship the code. I'm bringing that to an APM / PM role in NYC.
 
-**Portfolio:** [denstacked.com](https://denstacked.com) · **LinkedIn:** [denisse-medina-flores](https://www.linkedin.com/in/denisse-medina-flores/) · **Email:** codingwithden@gmail.com
+**Portfolio:** [denstacked.com](https://denstacked.com) · **LinkedIn:** [denisse-medina-flores](https://www.linkedin.com/in/denisse-medina-flores/) · **Email:** denstacked@gmail.com
 
 ---
 
