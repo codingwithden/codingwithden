@@ -10,12 +10,15 @@
 <tr><td width="50%" valign="top"><b><a href="https://github.com/codingwithden/smm-tools-case-study">Social Media Tools</a></b> <img src="https://img.shields.io/badge/Building-1f6feb?style=flat-square" alt="Building" /><br /><sub>Tools that help social media managers make content faster, free and paid</sub></td><td width="50%" valign="top"><b><a href="https://github.com/codingwithden/yt-dashboard">YT Dashboard</a></b> <img src="https://img.shields.io/badge/Prototype-1f6feb?style=flat-square" alt="Prototype" /><br /><sub>A dashboard prototype for YouTube and lifestyle creators</sub></td></tr>
 </table>
 
-<h3 align="center">My toolkit</h3>
+<h2 align="center">My toolkit</h2>
 
-<p align="center"><sub>PRODUCT AND TEAM</sub><br />
+<h4 align="center">Product and team</h4>
+<p align="center">
 <img src="assets/icons/jira.svg" width="44" height="44" alt="Jira" title="Jira" />
 <img src="assets/icons/confluence.svg" width="44" height="44" alt="Confluence" title="Confluence" />
 <img src="assets/icons/trello.svg" width="44" height="44" alt="Trello" title="Trello" />
+<img src="assets/icons/asana.svg" width="44" height="44" alt="Asana" title="Asana" />
+<img src="assets/icons/monday.svg" width="44" height="44" alt="Monday.com" title="Monday.com" />
 <img src="assets/icons/notion.svg" width="44" height="44" alt="Notion" title="Notion" />
 <img src="assets/icons/slack.svg" width="44" height="44" alt="Slack" title="Slack" />
 <img src="assets/icons/miro.svg" width="44" height="44" alt="Miro" title="Miro" />
@@ -25,18 +28,8 @@
 <img src="assets/icons/discord.svg" width="44" height="44" alt="Discord" title="Discord" />
 </p>
 
-<p align="center"><sub>DESIGN</sub><br />
-<img src="assets/icons/figma.svg" width="44" height="44" alt="Figma" title="Figma" />
-<img src="assets/icons/canva.svg" width="44" height="44" alt="Canva" title="Canva" />
-</p>
-
-<p align="center"><sub>DATA</sub><br />
-<img src="assets/icons/googleanalytics.svg" width="44" height="44" alt="Google Analytics 4" title="Google Analytics 4" />
-<img src="assets/icons/mysql.svg" width="44" height="44" alt="SQL" title="SQL" />
-<img src="assets/icons/googlesheets.svg" width="44" height="44" alt="Google Sheets" title="Google Sheets" />
-</p>
-
-<p align="center"><sub>BUILD</sub><br />
+<h4 align="center">Build</h4>
+<p align="center">
 <img src="assets/icons/react.svg" width="44" height="44" alt="React" title="React" />
 <img src="assets/icons/nextjs.svg" width="44" height="44" alt="Next.js" title="Next.js" />
 <img src="assets/icons/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
@@ -46,21 +39,45 @@
 <img src="assets/icons/vercel.svg" width="44" height="44" alt="Vercel" title="Vercel" />
 <img src="assets/icons/twilio.svg" width="44" height="44" alt="Twilio" title="Twilio" />
 <img src="assets/icons/googleappsscript.svg" width="44" height="44" alt="Google Apps Script" title="Google Apps Script" />
+<img src="assets/icons/github.svg" width="44" height="44" alt="GitHub" title="GitHub" />
 </p>
 
-<p align="center"><sub>NO-CODE AND COMMERCE</sub><br />
+<h4 align="center">Data and research</h4>
+<p align="center">
+<img src="assets/icons/googleanalytics.svg" width="44" height="44" alt="Google Analytics 4" title="Google Analytics 4" />
+<img src="assets/icons/mysql.svg" width="44" height="44" alt="SQL" title="SQL" />
+<img src="assets/icons/googlesheets.svg" width="44" height="44" alt="Google Sheets" title="Google Sheets" />
+<img src="assets/icons/googleforms.svg" width="44" height="44" alt="Google Forms" title="Google Forms" />
+</p>
+
+<h4 align="center">No-code and commerce</h4>
+<p align="center">
 <img src="assets/icons/zapier.svg" width="44" height="44" alt="Zapier" title="Zapier" />
 <img src="assets/icons/wix.svg" width="44" height="44" alt="Wix" title="Wix" />
 <img src="assets/icons/shopify.svg" width="44" height="44" alt="Shopify" title="Shopify" />
 <img src="assets/icons/stripe.svg" width="44" height="44" alt="Stripe" title="Stripe" />
 </p>
 
-<p align="center"><sub>AI</sub><br />
+<h4 align="center">AI</h4>
+<p align="center">
 <img src="assets/icons/claude.svg" width="44" height="44" alt="Claude" title="Claude" />
 <img src="assets/icons/cursor.svg" width="44" height="44" alt="Cursor" title="Cursor" />
 <img src="assets/icons/googlegemini.svg" width="44" height="44" alt="Gemini" title="Gemini" />
 </p>
 
+<h4 align="center">Design</h4>
+<p align="center">
+<img src="assets/icons/figma.svg" width="44" height="44" alt="Figma" title="Figma" />
+<img src="assets/icons/canva.svg" width="44" height="44" alt="Canva" title="Canva" />
+</p>
+
+<h4 align="center">Everyday</h4>
+<p align="center">
+<img src="assets/icons/googleworkspace.svg" width="44" height="44" alt="Google Workspace" title="Google Workspace" />
+<img src="assets/icons/microsoft.svg" width="44" height="44" alt="Microsoft Office (Excel)" title="Microsoft Office (Excel)" />
+</p>
+
+<h4 align="center">Let's connect</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/denisse-medina-flores/"><img src="assets/icons/linkedin.svg" width="44" height="44" alt="LinkedIn" title="LinkedIn" /></a>
 <a href="mailto:denstacked@gmail.com"><img src="assets/icons/gmail.svg" width="44" height="44" alt="Email" title="Email" /></a>
